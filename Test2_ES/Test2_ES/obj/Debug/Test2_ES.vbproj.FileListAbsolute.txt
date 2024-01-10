@@ -1,0 +1,12 @@
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\bin\Debug\Test2_ES.exe.config
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\bin\Debug\Test2_ES.exe
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\bin\Debug\Test2_ES.pdb
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\bin\Debug\Test2_ES.xml
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\obj\Debug\Test2_ES.vbproj.AssemblyReference.cache
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\obj\Debug\Test2_ES.Form1.resources
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\obj\Debug\Test2_ES.Resources.resources
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\obj\Debug\Test2_ES.vbproj.GenerateResource.cache
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\obj\Debug\Test2_ES.vbproj.CoreCompileInputs.cache
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\obj\Debug\Test2_ES.exe
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\obj\Debug\Test2_ES.xml
+C:\Users\e5sco\Desktop\Week 9\Test2_ES\Test2_ES\obj\Debug\Test2_ES.pdb
